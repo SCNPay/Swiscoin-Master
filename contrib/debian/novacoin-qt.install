@@ -1,0 +1,5 @@
+MasterSwiscoin-qt usr/bin
+share/pixmaps/MasterSwiscoin32.xpm usr/share/pixmaps
+share/pixmaps/MasterSwiscoin80.xpm usr/share/pixmaps
+debian/MasterSwiscoin-qt.desktop usr/share/applications
+debian/MasterSwiscoin-qt.protocol usr/share/kde4/services/

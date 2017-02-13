@@ -1,0 +1,11 @@
+[Unit]
+Description=MasterSwiscoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=MasterSwiscoin
+ExecStart=/opt/MasterSwiscoin/MasterSwiscoind
+
+[Install]
+WantedBy=multi-user.target

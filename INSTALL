@@ -1,0 +1,9 @@
+Building MasterSwiscoin
+
+See doc/readme-qt.rst for instructions on building MasterSwiscoin Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MasterSwiscoin.
+
+See doc/build-*.txt for instructions on building MasterSwiscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MasterSwiscoin.

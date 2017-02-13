@@ -1,0 +1,2 @@
+debian/bin/MasterSwiscoind usr/bin
+src/MasterSwiscoind usr/lib/MasterSwiscoin

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MasterSwiscoin
+Comment=MasterSwiscoin P2P Cryptocurrency
+Comment[ru]=MasterSwiscoin, P2P криптовалюта
+Comment[fr]=MasterSwiscoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MasterSwiscoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/MasterSwiscoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/MasterSwiscoin80.xpm
+MimeType=x-scheme-handler/MasterSwiscoin;
+Categories=Office;
